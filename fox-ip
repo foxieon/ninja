@@ -3,6 +3,6 @@ echo $(clear)
 echo -e "\e[32mHello\e[39m \e[31m'$(whoami)'\e[39m \e[32mhow are you today\e[39m"
 echo -e "\e[32mPublic ip:-\e[39m\e[34m\e[5m$(curl -s https://api.ipify.org)"
 echo -e "\e[39m\e[25m\e[32mLocal ip:-\e[39m \e[34m\e[5m$(hostname -I)"
-echo -e "\e[39m\e[25mi\e[32mHost Name:-\e[39m \e[91m\e[5m$(hostname -s)"
+echo -e "\e[39m\e[25m\e[32mHost Name:-\e[39m \e[91m\e[5m$(hostname -s)"
 echo -e "\e[39m\e[25m\e[32mthe above ip is alloucated on\e[39m"& #echo $(date)
 echo -e "\e[91m\e[5m$(date)\e[25m"
