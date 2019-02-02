@@ -5,7 +5,8 @@ This script shows your current networks ip and your public ip.
 Instructions:-
 
 
-1)First you need to execute the make file (like this ./make and hit enter)
-2)After this a command will be alloucated
-The command for this script is 'ninja'
-Everytime you need to hit the word ninja for executing this script.
+1)First you need to execute the make file like this 'bash make' and hit enter
+2)After that a command will be alloucated
+and the command is 'ninja' which wil execute my script everytime you need to hit the word ninja for executing this script.
+
+thats it.
